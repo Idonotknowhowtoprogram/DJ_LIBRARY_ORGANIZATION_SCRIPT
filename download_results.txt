@@ -1,18 +1,124 @@
-Playlist: 115 hardcore
-  Track: Boys Interface - Slowed (Downloaded from YouTube)
-  Track: TW (Downloaded from YouTube)
-  Track: DEATH TRIAL - Slowed (Downloaded from YouTube)
-  Track: PYLON (Downloaded from YouTube)
-  Track: SCHIZOPHRENIA (Downloaded from YouTube)
-  Track: LAST CHANCE (Downloaded from YouTube)
-  Track: PULSE - Slowed (Downloaded from YouTube)
-  Track: hit - super slowed (Downloaded from YouTube)
-  Track: wutiwant - slowed (Downloaded from YouTube)
-  Track: HIPFIRE (Downloaded from YouTube)
-  Track: TOKSIN (Downloaded from YouTube)
-  Track: flowers are blooming in antarctica (Downloaded from YouTube)
-  Track: tjs_0824 - slowed (Downloaded from YouTube)
-  Track: NIGHTMARE (Downloaded from YouTube)
-  Track: WINTER ARC - SLOWED (Downloaded from YouTube)
-  Track: Apathy - Slowed (Downloaded from YouTube)
+Playlist: Riddim
+  Track: spacial planet droid V7P (Downloaded from YouTube)
+  Track: polyriddim VIP (Downloaded from YouTube)
+  Track: We Don't Play (Downloaded from YouTube)
+  Track: Be Kind, Rewind (Downloaded from YouTube)
+  Track: CANTINA DUB (Downloaded from YouTube)
+  Track: PUMP IT UP (Downloaded from YouTube)
+  Track: CRAB RIDDIM - Zeydax Remix (Downloaded from YouTube)
+  Track: EVIL EMPIRE (Downloaded from YouTube)
+  Track: BATTLE OF CRAIT (Downloaded from YouTube)
+
+Playlist: Bass Music
+  Track: Love Potion (Downloaded from YouTube)
+  Track: VTRN (Downloaded from YouTube)
+  Track: Contact - Annix Remix (Downloaded from YouTube)
+  Track: Stigma - Eptic Remix (Downloaded from YouTube)
+  Track: Jump (Downloaded from YouTube)
+  Track: Monomyth (Downloaded from YouTube)
+  Track: Quickness (Downloaded from YouTube)
+  Track: CRY (Downloaded from YouTube)
+  Track: Muscaria (Downloaded from YouTube)
+  Track: My World - Jon Casey Remix (Downloaded from YouTube)
+  Track: Grass Rat (Downloaded from YouTube)
+  Track: Awaken (Downloaded from YouTube)
+  Track: PHREQS (Downloaded from YouTube)
+  Track: The Hundred Year War (Downloaded from YouTube)
+  Track: Stigma - Burr Oak Remix (Downloaded from YouTube)
+  Track: The Entangled - Moytra Remix (Downloaded from YouTube)
+  Track: Diplodocus - HØST Remix (Downloaded from YouTube)
+  Track: Crank - Kasra Remix (Downloaded from YouTube)
+  Track: OPEN UR EYE (Downloaded from YouTube)
+  Track: Cryptic (Downloaded from YouTube)
+  Track: What You Know (Downloaded from YouTube)
+  Track: Dominate - EPROM Remix (Downloaded from YouTube)
+  Track: Pull Up Like (Downloaded from YouTube)
+
+Playlist: Dancefloor and Ragga
+  Track: Run The Show (Downloaded from YouTube)
+  Track: The Spark (Downloaded from YouTube)
+  Track: Get Down (Downloaded from YouTube)
+  Track: Don’t Sleep (Downloaded from YouTube)
+  Track: Everything But You (feat. A7S) - Luude Remix (Downloaded from YouTube)
+  Track: Danger - REAPER Remix (Downloaded from YouTube)
+  Track: Hooked (Downloaded from YouTube)
+  Track: Madness (Downloaded from YouTube)
+  Track: Lose This Feeling - Dimension Remix (Downloaded from YouTube)
+  Track: You Want Me (Downloaded from YouTube)
+  Track: BALANCE (Downloaded from YouTube)
+  Track: Body Work (Downloaded from YouTube)
+  Track: Don't Tell Me (Downloaded from YouTube)
+  Track: Reminiscing (Downloaded from YouTube)
+  Track: Foundation Style (Downloaded from YouTube)
+  Track: BREATHLESS (Downloaded from YouTube)
+  Track: BLACK FIRES (Downloaded from YouTube)
+  Track: COLD CASE (Downloaded from YouTube)
+  Track: BALANCE (Downloaded from YouTube)
+  Track: All Goes Wrong (feat. T-Man) (Downloaded from YouTube)
+  Track: Greed (Downloaded from YouTube)
+  Track: Swerve It (Downloaded from YouTube)
+  Track: Fever (Downloaded from YouTube)
+  Track: Devotion (feat. Cameron Hayes) (Downloaded from YouTube)
+  Track: Higher (Downloaded from YouTube)
+  Track: Getaway - Koven Remix (Downloaded from YouTube)
+  Track: Burn It Up (Downloaded from YouTube)
+  Track: Escape (Downloaded from YouTube)
+  Track: By Your Side (Downloaded from YouTube)
+  Track: Rave Out (Downloaded from YouTube)
+  Track: Rage (Downloaded from YouTube)
+  Track: Only Star You See (feat. Caitlyn Scarlett) (Downloaded from YouTube)
+  Track: No Warning (feat. Nathan Smoker) (Downloaded from YouTube)
+  Track: Through It All - Hedex Remix (Downloaded from YouTube)
+  Track: Ride or Die (ft. Indy Skies) (Downloaded from YouTube)
+  Track: Back To Your Roots 2021 (Downloaded from YouTube)
+  Track: Incessant - IMANU Remix (Downloaded from YouTube)
+  Track: Style and Pattern (Downloaded from YouTube)
+  Track: FLUTE (Downloaded from YouTube)
+  Track: Alarm (feat. MC ID) (Downloaded from YouTube)
+  Track: leavemealone (Downloaded from YouTube)
+  Track: Butters (Downloaded from YouTube)
+  Track: Loko (Downloaded from YouTube)
+  Track: Hardcore Riddim (Downloaded from YouTube)
+  Track: Gunfinger (Salute) (Downloaded from YouTube)
+  Track: Split The Atom - XOHNE Remix (Downloaded from YouTube)
+  Track: Wildfire (Downloaded from YouTube)
+  Track: Censor (feat. Popcaan & IRAH) (Downloaded from YouTube)
+  Track: BACKBONE (Downloaded from YouTube)
+  Track: Back Bus (Downloaded from YouTube)
+  Track: Where’s Your Head At - 1991 Remix (Downloaded from YouTube)
+  Track: We Don't Hold Back (Downloaded from YouTube)
+  Track: Veteran - VIP (Downloaded from YouTube)
+  Track: Kepler (Downloaded from YouTube)
+  Track: Ultralight (Downloaded from YouTube)
+  Track: Trigga Finga (Downloaded from YouTube)
+  Track: Tour (Downloaded from YouTube)
+  Track: Run Sound (Downloaded from YouTube)
+  Track: Take Me as I Am (Downloaded from YouTube)
+  Track: Step It Up (Downloaded from YouTube)
+  Track: Stan Smith (Downloaded from YouTube)
+  Track: Siren (Downloaded from YouTube)
+
+Playlist: Hardcore/Hardstyle
+
+Playlist: Trap/EDM
+
+Playlist: Techno
+
+Playlist: Jump Up
+
+Playlist: Neuro
+
+Playlist: Psytrance
+
+Playlist: Tearout
+
+Playlist: Classic Dubstep
+
+Playlist: DRUMSTEP
+
+Playlist: Liquid DNB
+
+Playlist: Harder House
+
+Playlist: Luh Calm House
 
