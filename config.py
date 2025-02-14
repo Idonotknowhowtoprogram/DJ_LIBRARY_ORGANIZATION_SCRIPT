@@ -1,0 +1,4 @@
+# config.py
+SPOTIFY_CLIENT_ID = '16d95e5ba2344fcdb07280ac376c1560'
+SPOTIFY_CLIENT_SECRET = 'f9d277026e744a17bedbd1a99337a93a'
+SPOTIFY_REDIRECT_URI = 'http://localhost:8888/callback'
